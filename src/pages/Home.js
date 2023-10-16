@@ -137,11 +137,7 @@ class Home extends React.Component {
                           </svg>
                         </div>
                         <p className="fs-4 font-bolder text-white mb-0">
-                          ^ Web Developer at Badan Narkotika Nasional Provinsi
-                          Jawa Tengah ^ Staf Ahli Bidang Riset dan Teknologi
-                          Badan Eksekutif Mahasiswa Fakultas Teknik Universitas
-                          Diponegoro ^ Sales and Marketing Staff at Al-Muhandis
-                          Electrical Engineering Diponegoro University
+                          Staff Ahli BEM FT Bidang Riset dan Teknologi
                         </p>
                       </div>
                     </div>
@@ -169,8 +165,7 @@ class Home extends React.Component {
                           </svg>
                         </div>
                         <p className="fs-4 font-bolder text-white mb-0">
-                          Studi Independen di Hacktiv8 React and React Native
-                          Program
+                          Studi Independen React and React Native Program
                         </p>
                       </div>
                     </div>
